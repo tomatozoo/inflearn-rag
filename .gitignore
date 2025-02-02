@@ -1,0 +1,7 @@
+.env
+chroma/
+*.docx
+*.doc
+.ipynb_checkpoints/
+inflearn-lectures/
+.Identifier
